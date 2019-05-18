@@ -27,6 +27,11 @@ plus de détails
 ```
 ![configuration vba ](https://github.com/fr33dz/xlwings_example/blob/master/vba.png)
 
+### Bouton et macro sous Excel
+pour faire appel a cette fonction j'ai crée un bouton dans le fichier excel et je lui ai assigné cette (fonction) macro.
+
+comment créer un bouton et lui assigner une macro https://www.extendoffice.com/documents/excel/878-excel-insert-macro-button.html
+
 
 ### Captures d'ecran
 
