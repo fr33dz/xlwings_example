@@ -1,4 +1,4 @@
-## Appeller une fonction python depuis Excel
+## Appeler une fonction python depuis Excel
 
 le but est d'appeler une fonction python en excel et vice versa.
 
